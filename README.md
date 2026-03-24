@@ -39,6 +39,18 @@ Bu proje bir ders projesi için geliştirilmiş prototip bir oyundur.
 3. assets klasörünün doğru yerde olduğundan emin olun.
 4. Projeyi derleyip çalıştırın.
 
+## Screenshots
+
+![Gameplay](docs/game_screenshot1.png)
+![Gameplay](docs/game_screenshot2.png)
+![Gameplay](docs/game_screenshot3.png)
+![Gameplay](docs/game_screenshot4.png)
+![Gameplay](docs/game_screenshot5.png)
+
+## Gameplay Video
+
+[Watch video](docs/game_video.mp4)
+
 ## Not
 
 Bu proje prototip aşamasındadır. Bazı gelişmiş oyun ve ekonomi kontrolleri henüz tam olarak eklenmemiştir.
